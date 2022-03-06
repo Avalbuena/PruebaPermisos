@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdwCd5FuC6AlYYPW6BuxSGc8DplGGb0zoaILDtKRQB2+0vfaDC9CmAH0sIBVT3Es8t/aDZXlEOLiX2wu9WZ41w==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectoPuertorro\\BackEnd\\Solution Permissions\\Permissions.Domain\\Permissions.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AndresValbuena\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\AndresValbuena\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\bin\Debug\netcoreapp3.1\Permissions.Domain.deps.json
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\bin\Debug\netcoreapp3.1\Permissions.Domain.dll
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\bin\Debug\netcoreapp3.1\Permissions.Domain.pdb
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\bin\Debug\netcoreapp3.1\Permissions.Infrastructure.dll
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\bin\Debug\netcoreapp3.1\Permissions.Infrastructure.pdb
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.csproj.AssemblyReference.cache
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.AssemblyInfoInputs.cache
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.AssemblyInfo.cs
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.csproj.CoreCompileInputs.cache
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.csproj.CopyComplete
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.dll
+D:\ProyectoPuertorro\BackEnd\Solution Permissions\Permissions.Domain\obj\Debug\netcoreapp3.1\Permissions.Domain.pdb
